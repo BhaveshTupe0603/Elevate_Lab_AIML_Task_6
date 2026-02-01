@@ -16,6 +16,7 @@
 ## 📊 Key Insights
 * **Primary Driver:** Median Income (`MedInc`) is by far the strongest predictor of house value.
 * **Model Accuracy:** The model predicts prices with an average error (MAE) of roughly **$53,000**.
+<img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/a1780733-2e11-4889-a417-e800c1d72a98" />
 
 ## 📂 Deliverables
 * [📓 Jupyter Notebook](./Task_6.ipynb)
