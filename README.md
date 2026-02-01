@@ -12,12 +12,15 @@
 3.  **Modeling:** Implemented **Linear Regression**.
 4.  **Evaluation:** Used **MAE** and **RMSE** to measure prediction accuracy.
 5.  **Visualization:** Plotted Feature Coefficients to understand *why* the model made its predictions.
+---
 
 ## 📊 Key Insights
 * **Primary Driver:** Median Income (`MedInc`) is by far the strongest predictor of house value.
 * **Model Accuracy:** The model predicts prices with an average error (MAE) of roughly **$53,000**.
 <img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/a1780733-2e11-4889-a417-e800c1d72a98" />
+
 ---
+
 # 🏁 Final Outcome: Task 6
 
 ## 📊 Evaluation Report
@@ -35,5 +38,6 @@ The scatter plot (saved as `predicted_vs_actual_plot.png`) visualizes the model'
 * **Cap:** There is a horizontal line of data points at the top ($500k). This indicates the raw dataset "capped" the maximum home value at 500k, causing the model to underestimate these specific homes.
 
 ---
+
 ## 📂 Deliverables
 * [📓 Jupyter Notebook](./Task_6.ipynb)
